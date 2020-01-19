@@ -1,2 +1,2 @@
 # calculatorApp
-![calculator view](/Gui/calculator.png)
+![calculator view](/Gui/calculator.PNG)
