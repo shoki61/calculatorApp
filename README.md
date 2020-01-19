@@ -1,2 +1,2 @@
 # calculatorApp
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/Gui/calculator.png)
