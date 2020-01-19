@@ -1,2 +1,2 @@
 # calculatorApp
-![calculator view](/Gui/calculator.PNG | width=100px)
+![calculator view](/Gui/calculator.PNG =250x250)
